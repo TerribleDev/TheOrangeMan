@@ -1,0 +1,12 @@
+{
+  "name": "OrangeMan",
+  "version": "0.0.1",
+  "description": "OrangeMan",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "devDependencies": {
+    "webextension-toolbox": "latest"
+  }
+}
